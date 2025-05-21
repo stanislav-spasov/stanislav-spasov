@@ -25,7 +25,7 @@ I'm a **former Process Engineer** who found a new passion in **software developm
 
 🧠 Currently Learning
 
-  - Advanced Python Concepts
+  - Fundamentals Python Concepts
   - Software Engineering Principles
   - Linux System Administration
 
