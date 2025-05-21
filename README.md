@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Stanislav Spasov , former Process Engineer and current Python Developer from Bulgaria
-- 🌱 I’m currently learning software development with Python in SoftUni Bulgaria
-- 📫 You can get in touch with me by email at: stanislavspasov91@gmail.com ; Facebook -> https://www.facebook.com/tazz.pz or Linkedin -> https://www.linkedin.com/in/stanislav-spasov-279807231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHl6npjzeSl6JCQRhN%2BlN3Q%3D%3D
-
-
+- 👋 Hello! I'm Stanislav Spasov, a former Process Engineer turned passionate Python Developer based in Bulgaria. With a strong technical background and a sharp analytical mindset, I’ve recently transitioned into the world of software development, where I’m currently honing my skills through the intensive training program at SoftUni Bulgaria.
+- 📫 You can reach me via [Email](mailto:stanislavspasov91@gmail.com)  
+Follow me on [Facebook](https://www.facebook.com/tazz.pz)  
+Or connect on [LinkedIn](https://www.linkedin.com/in/stanislav-spasov-279807231)
 <!---
 stanislav-spasov/stanislav-spasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
